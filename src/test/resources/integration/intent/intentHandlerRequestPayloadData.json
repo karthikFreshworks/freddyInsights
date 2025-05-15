@@ -1,0 +1,85 @@
+{
+  "createIntentPayloadWithoutDescription": {
+      "name": "test_intent_handler",
+      "kind": "SERVICE",
+      "rule": {
+        "method": "post"
+      },
+      "location": "test location"
+   },
+
+  "createIntentPayloadWithoutKind": {
+    "name": "test_intent_handler",
+    "description": "create test intent handler",
+    "rule": {
+      "method": "post"
+    },
+    "location": "test location"
+  },
+
+  "createIntentPayloadWithoutRule": {
+    "name": "test_intent_handler",
+    "description": "create test intent handler",
+    "kind": "SERVICE",
+    "location": "test location"
+  },
+
+  "createIntentWithValidPayload": {
+    "name": "test_intent_handler",
+    "description": "create test intent handler",
+    "kind": "SERVICE",
+    "rule": {
+      "method": "post"
+    },
+    "location": "test location"
+  },
+
+  "createFallbackIntentWithValidPayload": {
+    "name": "fallback_intent",
+    "description": "create test intent handler",
+    "kind": "SERVICE",
+    "is_fallback_handler": 1,
+    "rule": {
+      "method": "post"
+    },
+    "location": "test location"
+  },
+
+  "createDialogueSourceIntentWithValidPayload": {
+    "name": "dialogue source",
+    "description": "create test intent handler",
+    "kind": "SERVICE",
+    "rule": {
+      "method": "post"
+    },
+    "dialogue_sources": ["copilot"],
+    "dialogue_source_pages": [
+      "dashboards"
+    ],
+    "location": "test location"
+  },
+
+  "updateIntentToFallbackPayload": {
+    "is_fallback_handler": 1
+  },
+
+  "updateIntentToDialogueSourcePayload": {
+    "dialogue_sources": ["ai-first"]
+  },
+
+  "updateIntentPayload": {
+    "name": "updated - test_intent_handler",
+    "description": "updated - create test_intent_handler description",
+    "location": "updated - create test_intent_handler location"
+  },
+
+  "createIntentWithInvalidNamePayload": {
+    "name": "2",
+    "description": "create test intent handler",
+    "kind": "SERVICE",
+    "rule": {
+      "method": "post"
+    },
+    "location": "test location"
+  }
+}

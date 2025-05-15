@@ -1,0 +1,22 @@
+{
+  "description": "controls the model change",
+  "enabled": true,
+  "variants": [
+    {
+      "name": "modelA",
+      "data": {
+        "model": "davinci",
+        "platform": "azure",
+        "service_version": "v0"
+      }
+    },
+    {
+      "name": "modelB",
+      "data": {
+        "model": "davinci",
+        "platform": "azure",
+        "service_version": "v0"
+      }
+    }
+  ]
+}

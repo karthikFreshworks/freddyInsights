@@ -1,0 +1,17 @@
+{
+  "name": "translation-adaptor",
+  "tenant": "{tenant}",
+  "validations": {},
+  "platform_mappings": {
+    "azure": {
+      "error_code_mappings": {
+        "400": "return LIMIT_EXCEED"
+      }
+    },
+    "google": {
+      "error_code_mappings": {
+        "400": "return LIMIT_EXCEED"
+      }
+    }
+  }
+}

@@ -1,0 +1,1230 @@
+2025-05-13 12:49:30.924 [] [] [main] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2025-05-13 12:49:31.439 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 12:49:31.439 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 12:49:31.441 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 2 ms
+2025-05-13 12:49:31.604 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 12:49:31.604 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 12:49:31.604 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 12:49:31.638 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 12:49:31.638 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 12:49:31.638 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 12:49:31.664 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 12:49:31.664 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 12:49:31.664 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 12:49:31.702 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 12:49:31.703 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 12:49:31.703 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 12:49:31.720 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 12:49:31.720 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 12:49:31.720 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 12:49:31.738 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 12:49:31.738 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 12:49:31.738 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 12:49:31.781 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 12:49:31.781 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 12:49:31.781 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 12:49:31.792 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 12:49:31.793 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 12:49:31.793 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 12:49:31.803 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 12:49:31.803 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 12:49:31.803 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 12:49:31.813 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 12:49:31.813 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 12:49:31.813 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 12:49:31.819 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 12:49:31.819 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 12:49:31.819 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 12:49:31.871 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 12:49:31.871 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 12:49:31.871 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 12:49:31.882 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 12:49:31.882 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 12:49:31.882 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 12:49:31.888 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 12:49:31.888 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 12:49:31.888 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 12:49:31.908 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 12:49:31.908 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 12:49:31.908 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 12:49:31.923 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 12:49:31.923 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 12:49:31.923 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 12:49:31.929 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 12:49:31.930 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 12:49:31.930 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 12:49:31.963 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 12:49:31.963 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 12:49:31.963 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 12:49:31.985 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 12:49:31.985 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 12:49:31.985 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 12:49:32.003 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 12:49:32.003 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 12:49:32.003 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 12:49:32.017 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 12:49:32.017 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 12:49:32.017 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 12:49:32.025 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 12:49:32.025 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 12:49:32.025 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 12:49:32.032 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 12:49:32.032 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 12:49:32.032 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 12:49:32.063 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 12:49:32.063 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 12:49:32.063 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 12:49:32.093 [] [] [main] INFO  c.f.f.i.c.AIDialogueController - DM execution called for tenant: test and bundle: null
+2025-05-13 12:49:32.154 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 12:49:32.154 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 12:49:32.154 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 12:49:32.170 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 12:49:32.170 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 12:49:32.170 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 12:49:32.180 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 12:49:32.180 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 12:49:32.180 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 12:49:32.204 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 12:49:32.205 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 12:49:32.205 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 12:49:32.209 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 12:49:32.209 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 12:49:32.209 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 12:49:32.216 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 12:49:32.216 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 12:49:32.217 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 1 ms
+2025-05-13 12:49:32.226 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 12:49:32.226 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 12:49:32.226 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 12:49:32.238 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 12:49:32.238 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 12:49:32.238 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 12:49:32.242 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 12:49:32.242 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 12:49:32.242 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 12:49:32.349 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 12:49:32.349 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 12:49:32.349 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 12:49:32.352 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 12:49:32.352 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 12:49:32.352 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 12:49:32.366 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 12:49:32.366 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 12:49:32.366 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 12:49:32.369 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 12:49:32.369 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 12:49:32.369 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 12:49:32.376 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 12:49:32.376 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 12:49:32.377 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 1 ms
+2025-05-13 12:49:32.380 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 12:49:32.380 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 12:49:32.380 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 12:49:32.387 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 12:49:32.387 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 12:49:32.388 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 12:49:32.390 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 12:49:32.390 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 12:49:32.390 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 12:49:32.400 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 12:49:32.400 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 12:49:32.400 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 12:49:32.403 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 12:49:32.403 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 12:49:32.403 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 12:49:32.410 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 12:49:32.410 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 12:49:32.410 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 12:49:32.413 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 12:49:32.413 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 12:49:32.413 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 12:49:32.423 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 12:49:32.423 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 12:49:32.423 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 12:49:32.426 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 12:49:32.426 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 12:49:32.426 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 12:49:32.446 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 12:49:32.446 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 12:49:32.446 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 12:49:32.448 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 12:49:32.448 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 12:49:32.449 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 1 ms
+2025-05-13 12:49:32.454 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 12:49:32.454 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 12:49:32.454 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 12:49:32.457 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 12:49:32.457 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 12:49:32.457 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 12:49:33.056 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 0 found for id: test 
+2025-05-13 12:49:33.072 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: null 
+2025-05-13 12:49:33.072 [] [] [main] INFO  c.f.f.i.service.AIPromptService - Starting prompt promotion async.
+2025-05-13 12:49:33.074 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 0 found for id: null 
+2025-05-13 12:49:33.076 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 0 found for id: test 
+2025-05-13 12:49:33.077 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: test 
+2025-05-13 12:49:33.087 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: test 
+2025-05-13 12:49:33.088 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt record for id: test, got deleted: true
+2025-05-13 12:49:33.089 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: test 
+2025-05-13 12:49:33.091 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: null 
+2025-05-13 12:49:33.091 [] [] [main] INFO  c.f.f.i.service.AIPromptService - Starting update prompt promotion async.
+2025-05-13 12:49:33.093 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: test 
+2025-05-13 12:49:33.094 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 0 found for id: test 
+2025-05-13 12:49:33.096 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt record for id: test, got deleted: true
+2025-05-13 12:49:33.098 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 0 found for id: null 
+2025-05-13 12:49:33.107 [] [] [main] INFO  c.f.f.i.service.AIPromptService - Creating prompt entity with id: null
+2025-05-13 12:49:33.110 [] [] [main] INFO  c.f.f.i.service.AIPromptService - accept Language header value: null
+2025-05-13 12:49:33.123 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for given parameter.
+2025-05-13 12:49:33.212 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 12:49:33.212 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 12:49:33.212 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 12:49:33.216 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 12:49:33.216 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 12:49:33.217 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 1 ms
+2025-05-13 12:49:33.219 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 12:49:33.219 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 12:49:33.219 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 12:49:33.221 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 12:49:33.221 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 12:49:33.221 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 12:49:33.271 [] [] [main] INFO  c.f.f.i.service.AIModelService - Deleting all the models for the tenant test
+2025-05-13 12:49:33.272 [] [] [main] INFO  c.f.f.i.service.AIModelService - Model created with id: null-null-null-null
+2025-05-13 12:49:33.276 [] [] [main] INFO  c.f.f.i.service.AIModelService - AIModel record for id: null-null-null-null, got deleted.
+2025-05-13 12:49:33.379 [] [] [main] INFO  c.f.f.i.service.AIDialogueService - Dialogue flow params AIDialogueParamDTO(tenant=global, bundle=null, intentHandlerId=null, fallbackExpected=false), request com.freshworks.freddy.insights.dto.dialogue.DialogManagerRequest@726986d2, bundle tenants [global, freshchat, freshdesk, freshbot, test, freshservice, rnd, jeeves, freshcaller, freshrelease, freshsales, freshmarketer, neoanalytics, neosearch, neomarketplace, surveyserv, ace, antispam, neodeveloperplatform, ucr, cxselfserviceml], contextVO ContextVO(accessType=SUPER_ADMIN, id=null, tenant=global, email=null, adminKey=null, userKey=null, bundle=null, orgId=null, domain=null, userId=null, addons=null, bundleId=null, accountId=null, groupId=null, collapse=null, tags=null, semanticCache=false, aiBundleEntity=null) 
+2025-05-13 12:49:33.382 [] [] [main] INFO  c.f.f.i.service.AIDialogueService - accept Language header value: null
+2025-05-13 12:49:33.383 [] [] [main] INFO  c.f.f.i.service.AIDialogueService - Is fallback handler expected: false
+2025-05-13 12:49:33.383 [] [] [main] INFO  c.f.f.i.service.AIDialogueService - Dialogue flow executing defaultDialogueHandler
+2025-05-13 12:49:33.387 [] [] [main] INFO  c.f.f.i.service.AIDialogueService - Dialogue flow params AIDialogueParamDTO(tenant=global, bundle=null, intentHandlerId=testId, fallbackExpected=false), request com.freshworks.freddy.insights.dto.dialogue.DialogManagerRequest@22be4867, bundle tenants [global, freshchat, freshdesk, freshbot, test, freshservice, rnd, jeeves, freshcaller, freshrelease, freshsales, freshmarketer, neoanalytics, neosearch, neomarketplace, surveyserv, ace, antispam, neodeveloperplatform, ucr, cxselfserviceml], contextVO ContextVO(accessType=SUPER_ADMIN, id=null, tenant=global, email=null, adminKey=null, userKey=null, bundle=null, orgId=null, domain=null, userId=null, addons=null, bundleId=null, accountId=null, groupId=null, collapse=null, tags=null, semanticCache=false, aiBundleEntity=null) 
+2025-05-13 12:49:33.387 [] [] [main] INFO  c.f.f.i.service.AIDialogueService - accept Language header value: null
+2025-05-13 12:49:33.387 [] [] [main] INFO  c.f.f.i.service.AIDialogueService - Dialogue flow executing promptDialogueHandler with intentHandlerId testId
+2025-05-13 12:49:33.390 [] [] [main] INFO  c.f.f.i.service.AIDialogueService - Dialogue flow params AIDialogueParamDTO(tenant=global, bundle=null, intentHandlerId=null, fallbackExpected=false), request com.freshworks.freddy.insights.dto.dialogue.DialogManagerRequest@38c2bbd3, bundle tenants [global, freshchat, freshdesk, freshbot, test, freshservice, rnd, jeeves, freshcaller, freshrelease, freshsales, freshmarketer, neoanalytics, neosearch, neomarketplace, surveyserv, ace, antispam, neodeveloperplatform, ucr, cxselfserviceml], contextVO ContextVO(accessType=SUPER_ADMIN, id=null, tenant=global, email=null, adminKey=null, userKey=null, bundle=null, orgId=null, domain=null, userId=null, addons=null, bundleId=null, accountId=null, groupId=null, collapse=null, tags=null, semanticCache=false, aiBundleEntity=null) 
+2025-05-13 12:49:33.390 [] [] [main] INFO  c.f.f.i.service.AIDialogueService - accept Language header value: null
+2025-05-13 12:49:33.390 [] [] [main] INFO  c.f.f.i.service.AIDialogueService - Dialogue flow request last history ResponseData(handlerId=null, messageIndex=0, responseCode=CONTINUE)
+2025-05-13 12:49:33.477 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: test 
+2025-05-13 12:49:33.478 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight record for id: test, got deleted: true
+2025-05-13 12:49:33.479 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: test 
+2025-05-13 12:49:33.481 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight entity update initiated, id: test
+2025-05-13 12:49:33.481 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight record ES status: CREATED, id: 12345678, version: 1
+2025-05-13 12:49:33.482 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 0, found for id: test 
+2025-05-13 12:49:33.484 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Dismiss Insight record for id: test, got deleted
+2025-05-13 12:49:33.484 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: test 
+2025-05-13 12:49:33.486 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: test 
+2025-05-13 12:49:33.488 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight entity create initiated
+2025-05-13 12:49:33.488 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight record ES status: CREATED, id: 12345678, version: 1
+2025-05-13 12:49:33.491 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 0, found for id: null 
+2025-05-13 12:49:33.492 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 0, found for id: null 
+2025-05-13 12:49:33.494 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight record for id: test, got deleted: true
+2025-05-13 12:49:33.495 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 0, found for id: test 
+2025-05-13 12:49:33.497 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 0, found for id: test 
+2025-05-13 12:49:33.498 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight record for tenant: test, got deleted.
+2025-05-13 12:49:33.501 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: null 
+2025-05-13 12:49:33.501 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Starting insight promotion async.
+2025-05-13 12:49:33.503 [] [] [main] INFO  c.f.f.i.service.AIInsightService - accept Language header value: en
+2025-05-13 12:49:33.503 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Filtering Dismissed insights
+2025-05-13 12:49:33.503 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for given parameter.
+2025-05-13 12:49:33.506 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight dismissal Initiated
+2025-05-13 12:49:33.506 [] [] [main] INFO  c.f.f.i.service.AIInsightService - validating the insightId: 123456
+2025-05-13 12:49:33.506 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: 123456 
+2025-05-13 12:49:33.506 [] [] [main] INFO  c.f.f.i.service.AIInsightService - checking whether the insight is already dismissed or not
+2025-05-13 12:49:33.506 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight record Dismiss status: , id: 123456
+2025-05-13 12:49:33.506 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight dismissal Initiated
+2025-05-13 12:49:33.506 [] [] [main] INFO  c.f.f.i.service.AIInsightService - validating the insightId: 123456
+2025-05-13 12:49:33.506 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: 123456 
+2025-05-13 12:49:33.506 [] [] [main] INFO  c.f.f.i.service.AIInsightService - checking whether the insight is already dismissed or not
+2025-05-13 12:49:33.506 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight record Dismiss status: , id: 123456
+2025-05-13 12:49:33.508 [] [] [main] INFO  c.f.f.i.service.AIInsightService - accept Language header value: en
+2025-05-13 12:49:33.508 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Filtering Dismissed insights
+2025-05-13 12:49:33.508 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for given parameter.
+2025-05-13 12:49:33.511 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: null 
+2025-05-13 12:49:33.511 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Starting update prompt promotion async.
+2025-05-13 12:49:33.621 [] [] [main] INFO  c.f.f.insights.service.AIService - AIService record got deleted: 0
+2025-05-13 12:49:33.622 [] [] [main] INFO  c.f.f.insights.service.AIService - Cloning service for id: test and for tenant: global
+2025-05-13 12:49:33.626 [] [] [main] INFO  c.f.f.insights.service.AIService - Creating suggest service for tenant: global
+2025-05-13 12:49:33.627 [] [] [main] INFO  c.f.f.insights.service.AIService - AIService record got deleted: 1
+2025-05-13 12:49:33.629 [] [] [main] INFO  c.f.f.insights.service.AIService - AIRunServiceVO AIRunServiceVO(aiModel=null, service=null, tenant=freshdesk, platform=azure, serviceVersion=null, sseEmitter=null, mediaType=null, templateKeys=null, features=null, requestData={}, multipartFiles=null, serviceAdaptorId=null, tenantAccountId=null)
+2025-05-13 12:49:33.631 [] [] [main] INFO  c.f.f.insights.service.AIService - Service execution initiated. ServiceId: null
+2025-05-13 12:49:33.632 [] [] [main] INFO  c.f.f.insights.service.AIService - AIService record got deleted: 1
+2025-05-13 12:49:33.633 [] [] [main] INFO  c.f.f.insights.service.AIService - AIRunServiceVO AIRunServiceVO(aiModel=null, service=null, tenant=freshdesk, platform=azure, serviceVersion=null, sseEmitter=null, mediaType=null, templateKeys=null, features=null, requestData={}, multipartFiles=null, serviceAdaptorId=null, tenantAccountId=null)
+2025-05-13 12:49:33.633 [] [] [main] INFO  c.f.f.insights.service.AIService - Service execution initiated. ServiceId: null
+2025-05-13 12:49:33.636 [] [] [main] INFO  c.f.f.insights.service.AIService - Creating suggest service for tenant: global
+2025-05-13 12:49:33.643 [] [] [main] INFO  c.f.f.insights.service.AIService - Creating suggest service for tenant: global
+2025-05-13 18:06:50.062 [] [] [main] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2025-05-13 18:06:50.506 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:06:50.507 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:06:50.508 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 1 ms
+2025-05-13 18:06:50.658 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:06:50.658 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:06:50.658 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:06:50.711 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:06:50.711 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:06:50.711 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:06:50.758 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:06:50.758 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:06:50.758 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:06:50.766 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:06:50.766 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:06:50.766 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:06:50.800 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:06:50.800 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:06:50.800 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:06:50.813 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:06:50.813 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:06:50.813 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:06:50.830 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:06:50.830 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:06:50.830 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:06:50.836 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:06:50.836 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:06:50.836 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:06:51.666 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 0 found for id: test 
+2025-05-13 18:06:51.683 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: null 
+2025-05-13 18:06:51.683 [] [] [main] INFO  c.f.f.i.service.AIPromptService - Starting prompt promotion async.
+2025-05-13 18:06:51.685 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 0 found for id: null 
+2025-05-13 18:06:51.687 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 0 found for id: test 
+2025-05-13 18:06:51.689 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: test 
+2025-05-13 18:06:51.700 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: test 
+2025-05-13 18:06:51.700 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt record for id: test, got deleted: true
+2025-05-13 18:06:51.701 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: test 
+2025-05-13 18:06:51.704 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: null 
+2025-05-13 18:06:51.704 [] [] [main] INFO  c.f.f.i.service.AIPromptService - Starting update prompt promotion async.
+2025-05-13 18:06:51.706 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: test 
+2025-05-13 18:06:51.708 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 0 found for id: test 
+2025-05-13 18:06:51.709 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt record for id: test, got deleted: true
+2025-05-13 18:06:51.712 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 0 found for id: null 
+2025-05-13 18:06:51.723 [] [] [main] INFO  c.f.f.i.service.AIPromptService - Creating prompt entity with id: null
+2025-05-13 18:06:51.726 [] [] [main] INFO  c.f.f.i.service.AIPromptService - accept Language header value: null
+2025-05-13 18:06:51.736 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for given parameter.
+2025-05-13 18:06:51.820 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:06:51.821 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:06:51.821 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:06:51.825 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:06:51.826 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:06:51.826 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:06:51.829 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:06:51.829 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:06:51.829 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:06:51.831 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:06:51.831 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:06:51.831 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:06:51.882 [] [] [main] INFO  c.f.f.i.service.AIModelService - Deleting all the models for the tenant test
+2025-05-13 18:06:51.883 [] [] [main] INFO  c.f.f.i.service.AIModelService - Model created with id: null-null-null-null
+2025-05-13 18:06:51.890 [] [] [main] INFO  c.f.f.i.service.AIModelService - AIModel record for id: null-null-null-null, got deleted.
+2025-05-13 18:06:51.991 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: test 
+2025-05-13 18:06:51.991 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight record for id: test, got deleted: true
+2025-05-13 18:06:51.993 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: test 
+2025-05-13 18:06:51.994 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight entity update initiated, id: test
+2025-05-13 18:06:51.994 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight record ES status: CREATED, id: 12345678, version: 1
+2025-05-13 18:06:51.996 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 0, found for id: test 
+2025-05-13 18:06:51.998 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Dismiss Insight record for id: test, got deleted
+2025-05-13 18:06:51.998 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: test 
+2025-05-13 18:06:52.001 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: test 
+2025-05-13 18:06:52.004 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight entity create initiated
+2025-05-13 18:06:52.004 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight record ES status: CREATED, id: 12345678, version: 1
+2025-05-13 18:06:52.007 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 0, found for id: null 
+2025-05-13 18:06:52.009 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 0, found for id: null 
+2025-05-13 18:06:52.011 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight record for id: test, got deleted: true
+2025-05-13 18:06:52.013 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 0, found for id: test 
+2025-05-13 18:06:52.014 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 0, found for id: test 
+2025-05-13 18:06:52.016 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight record for tenant: test, got deleted.
+2025-05-13 18:06:52.019 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: null 
+2025-05-13 18:06:52.019 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Starting insight promotion async.
+2025-05-13 18:06:52.021 [] [] [main] INFO  c.f.f.i.service.AIInsightService - accept Language header value: en
+2025-05-13 18:06:52.021 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Filtering Dismissed insights
+2025-05-13 18:06:52.021 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for given parameter.
+2025-05-13 18:06:52.024 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight dismissal Initiated
+2025-05-13 18:06:52.024 [] [] [main] INFO  c.f.f.i.service.AIInsightService - validating the insightId: 123456
+2025-05-13 18:06:52.024 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: 123456 
+2025-05-13 18:06:52.024 [] [] [main] INFO  c.f.f.i.service.AIInsightService - checking whether the insight is already dismissed or not
+2025-05-13 18:06:52.024 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight record Dismiss status: , id: 123456
+2025-05-13 18:06:52.024 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight dismissal Initiated
+2025-05-13 18:06:52.024 [] [] [main] INFO  c.f.f.i.service.AIInsightService - validating the insightId: 123456
+2025-05-13 18:06:52.024 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: 123456 
+2025-05-13 18:06:52.024 [] [] [main] INFO  c.f.f.i.service.AIInsightService - checking whether the insight is already dismissed or not
+2025-05-13 18:06:52.024 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight record Dismiss status: , id: 123456
+2025-05-13 18:06:52.026 [] [] [main] INFO  c.f.f.i.service.AIInsightService - accept Language header value: en
+2025-05-13 18:06:52.026 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Filtering Dismissed insights
+2025-05-13 18:06:52.027 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for given parameter.
+2025-05-13 18:06:52.030 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: null 
+2025-05-13 18:06:52.030 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Starting update prompt promotion async.
+2025-05-13 18:06:52.127 [] [] [main] INFO  c.f.f.insights.service.AIService - AIService record got deleted: 0
+2025-05-13 18:06:52.129 [] [] [main] INFO  c.f.f.insights.service.AIService - Cloning service for id: test and for tenant: global
+2025-05-13 18:06:52.134 [] [] [main] INFO  c.f.f.insights.service.AIService - Creating suggest service for tenant: global
+2025-05-13 18:06:52.136 [] [] [main] INFO  c.f.f.insights.service.AIService - AIService record got deleted: 1
+2025-05-13 18:06:52.137 [] [] [main] INFO  c.f.f.insights.service.AIService - AIRunServiceVO AIRunServiceVO(aiModel=null, service=null, tenant=freshdesk, platform=azure, serviceVersion=null, sseEmitter=null, mediaType=null, templateKeys=null, features=null, requestData={}, multipartFiles=null, serviceAdaptorId=null, tenantAccountId=null)
+2025-05-13 18:06:52.140 [] [] [main] INFO  c.f.f.insights.service.AIService - Service execution initiated. ServiceId: null
+2025-05-13 18:06:52.141 [] [] [main] INFO  c.f.f.insights.service.AIService - AIService record got deleted: 1
+2025-05-13 18:06:52.142 [] [] [main] INFO  c.f.f.insights.service.AIService - AIRunServiceVO AIRunServiceVO(aiModel=null, service=null, tenant=freshdesk, platform=azure, serviceVersion=null, sseEmitter=null, mediaType=null, templateKeys=null, features=null, requestData={}, multipartFiles=null, serviceAdaptorId=null, tenantAccountId=null)
+2025-05-13 18:06:52.142 [] [] [main] INFO  c.f.f.insights.service.AIService - Service execution initiated. ServiceId: null
+2025-05-13 18:06:52.146 [] [] [main] INFO  c.f.f.insights.service.AIService - Creating suggest service for tenant: global
+2025-05-13 18:06:52.154 [] [] [main] INFO  c.f.f.insights.service.AIService - Creating suggest service for tenant: global
+2025-05-13 18:09:06.421 [] [] [main] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2025-05-13 18:09:06.880 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:09:06.880 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:09:06.882 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 2 ms
+2025-05-13 18:09:07.053 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:09:07.053 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:09:07.053 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:09:07.121 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:09:07.121 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:09:07.121 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:09:07.171 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:09:07.171 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:09:07.171 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:09:07.179 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:09:07.179 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:09:07.180 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 1 ms
+2025-05-13 18:09:07.220 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:09:07.221 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:09:07.221 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:09:07.235 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:09:07.235 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:09:07.235 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:09:07.253 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:09:07.253 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:09:07.253 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:09:07.260 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:09:07.260 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:09:07.260 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:09:07.918 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 0 found for id: test 
+2025-05-13 18:09:07.935 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: null 
+2025-05-13 18:09:07.935 [] [] [main] INFO  c.f.f.i.service.AIPromptService - Starting prompt promotion async.
+2025-05-13 18:09:07.937 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 0 found for id: null 
+2025-05-13 18:09:07.939 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 0 found for id: test 
+2025-05-13 18:09:07.942 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: test 
+2025-05-13 18:09:07.952 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: test 
+2025-05-13 18:09:07.953 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt record for id: test, got deleted: true
+2025-05-13 18:09:07.954 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: test 
+2025-05-13 18:09:07.957 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: null 
+2025-05-13 18:09:07.957 [] [] [main] INFO  c.f.f.i.service.AIPromptService - Starting update prompt promotion async.
+2025-05-13 18:09:07.961 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: test 
+2025-05-13 18:09:07.963 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 0 found for id: test 
+2025-05-13 18:09:07.965 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt record for id: test, got deleted: true
+2025-05-13 18:09:07.967 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 0 found for id: null 
+2025-05-13 18:09:07.979 [] [] [main] INFO  c.f.f.i.service.AIPromptService - Creating prompt entity with id: null
+2025-05-13 18:09:07.982 [] [] [main] INFO  c.f.f.i.service.AIPromptService - accept Language header value: null
+2025-05-13 18:09:07.990 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for given parameter.
+2025-05-13 18:09:08.074 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:09:08.074 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:09:08.074 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:09:08.079 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:09:08.079 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:09:08.080 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:09:08.083 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:09:08.083 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:09:08.083 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:09:08.086 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:09:08.086 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:09:08.086 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:09:08.137 [] [] [main] INFO  c.f.f.i.service.AIModelService - Deleting all the models for the tenant test
+2025-05-13 18:09:08.138 [] [] [main] INFO  c.f.f.i.service.AIModelService - Model created with id: null-null-null-null
+2025-05-13 18:09:08.145 [] [] [main] INFO  c.f.f.i.service.AIModelService - AIModel record for id: null-null-null-null, got deleted.
+2025-05-13 18:09:08.241 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: test 
+2025-05-13 18:09:08.241 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight record for id: test, got deleted: true
+2025-05-13 18:09:08.243 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: test 
+2025-05-13 18:09:08.244 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight entity update initiated, id: test
+2025-05-13 18:09:08.244 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight record ES status: CREATED, id: 12345678, version: 1
+2025-05-13 18:09:08.246 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 0, found for id: test 
+2025-05-13 18:09:08.248 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Dismiss Insight record for id: test, got deleted
+2025-05-13 18:09:08.248 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: test 
+2025-05-13 18:09:08.251 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: test 
+2025-05-13 18:09:08.254 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight entity create initiated
+2025-05-13 18:09:08.254 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight record ES status: CREATED, id: 12345678, version: 1
+2025-05-13 18:09:08.258 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 0, found for id: null 
+2025-05-13 18:09:08.259 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 0, found for id: null 
+2025-05-13 18:09:08.261 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight record for id: test, got deleted: true
+2025-05-13 18:09:08.263 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 0, found for id: test 
+2025-05-13 18:09:08.264 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 0, found for id: test 
+2025-05-13 18:09:08.266 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight record for tenant: test, got deleted.
+2025-05-13 18:09:08.269 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: null 
+2025-05-13 18:09:08.269 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Starting insight promotion async.
+2025-05-13 18:09:08.271 [] [] [main] INFO  c.f.f.i.service.AIInsightService - accept Language header value: en
+2025-05-13 18:09:08.272 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Filtering Dismissed insights
+2025-05-13 18:09:08.272 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for given parameter.
+2025-05-13 18:09:08.274 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight dismissal Initiated
+2025-05-13 18:09:08.274 [] [] [main] INFO  c.f.f.i.service.AIInsightService - validating the insightId: 123456
+2025-05-13 18:09:08.274 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: 123456 
+2025-05-13 18:09:08.274 [] [] [main] INFO  c.f.f.i.service.AIInsightService - checking whether the insight is already dismissed or not
+2025-05-13 18:09:08.274 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight record Dismiss status: , id: 123456
+2025-05-13 18:09:08.274 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight dismissal Initiated
+2025-05-13 18:09:08.275 [] [] [main] INFO  c.f.f.i.service.AIInsightService - validating the insightId: 123456
+2025-05-13 18:09:08.275 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: 123456 
+2025-05-13 18:09:08.275 [] [] [main] INFO  c.f.f.i.service.AIInsightService - checking whether the insight is already dismissed or not
+2025-05-13 18:09:08.275 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight record Dismiss status: , id: 123456
+2025-05-13 18:09:08.276 [] [] [main] INFO  c.f.f.i.service.AIInsightService - accept Language header value: en
+2025-05-13 18:09:08.277 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Filtering Dismissed insights
+2025-05-13 18:09:08.277 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for given parameter.
+2025-05-13 18:09:08.280 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: null 
+2025-05-13 18:09:08.280 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Starting update prompt promotion async.
+2025-05-13 18:09:08.421 [] [] [main] INFO  c.f.f.insights.service.AIService - AIService record got deleted: 0
+2025-05-13 18:09:08.423 [] [] [main] INFO  c.f.f.insights.service.AIService - Cloning service for id: test and for tenant: global
+2025-05-13 18:09:08.429 [] [] [main] INFO  c.f.f.insights.service.AIService - Creating suggest service for tenant: global
+2025-05-13 18:09:08.430 [] [] [main] INFO  c.f.f.insights.service.AIService - AIService record got deleted: 1
+2025-05-13 18:09:08.431 [] [] [main] INFO  c.f.f.insights.service.AIService - AIRunServiceVO AIRunServiceVO(aiModel=null, service=null, tenant=freshdesk, platform=azure, serviceVersion=null, sseEmitter=null, mediaType=null, templateKeys=null, features=null, requestData={}, multipartFiles=null, serviceAdaptorId=null, tenantAccountId=null)
+2025-05-13 18:09:08.434 [] [] [main] INFO  c.f.f.insights.service.AIService - Service execution initiated. ServiceId: null
+2025-05-13 18:09:08.436 [] [] [main] INFO  c.f.f.insights.service.AIService - AIService record got deleted: 1
+2025-05-13 18:09:08.437 [] [] [main] INFO  c.f.f.insights.service.AIService - AIRunServiceVO AIRunServiceVO(aiModel=null, service=null, tenant=freshdesk, platform=azure, serviceVersion=null, sseEmitter=null, mediaType=null, templateKeys=null, features=null, requestData={}, multipartFiles=null, serviceAdaptorId=null, tenantAccountId=null)
+2025-05-13 18:09:08.437 [] [] [main] INFO  c.f.f.insights.service.AIService - Service execution initiated. ServiceId: null
+2025-05-13 18:09:08.441 [] [] [main] INFO  c.f.f.insights.service.AIService - Creating suggest service for tenant: global
+2025-05-13 18:09:08.448 [] [] [main] INFO  c.f.f.insights.service.AIService - Creating suggest service for tenant: global
+2025-05-13 18:10:17.917 [] [] [main] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2025-05-13 18:10:18.455 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:10:18.455 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:10:18.457 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 2 ms
+2025-05-13 18:10:18.625 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:10:18.626 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:10:18.626 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:10:18.677 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:10:18.678 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:10:18.678 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:10:18.725 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:10:18.725 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:10:18.725 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:10:18.734 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:10:18.734 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:10:18.734 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:10:18.773 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:10:18.773 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:10:18.773 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:10:18.787 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:10:18.787 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:10:18.787 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:10:18.804 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:10:18.804 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:10:18.804 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:10:18.812 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:10:18.812 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:10:18.812 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:10:19.577 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 0 found for id: test 
+2025-05-13 18:10:19.603 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: null 
+2025-05-13 18:10:19.603 [] [] [main] INFO  c.f.f.i.service.AIPromptService - Starting prompt promotion async.
+2025-05-13 18:10:19.605 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 0 found for id: null 
+2025-05-13 18:10:19.608 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 0 found for id: test 
+2025-05-13 18:10:19.611 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: test 
+2025-05-13 18:10:19.624 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: test 
+2025-05-13 18:10:19.624 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt record for id: test, got deleted: true
+2025-05-13 18:10:19.625 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: test 
+2025-05-13 18:10:19.629 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: null 
+2025-05-13 18:10:19.629 [] [] [main] INFO  c.f.f.i.service.AIPromptService - Starting update prompt promotion async.
+2025-05-13 18:10:19.631 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: test 
+2025-05-13 18:10:19.633 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 0 found for id: test 
+2025-05-13 18:10:19.635 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt record for id: test, got deleted: true
+2025-05-13 18:10:19.637 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 0 found for id: null 
+2025-05-13 18:10:19.649 [] [] [main] INFO  c.f.f.i.service.AIPromptService - Creating prompt entity with id: null
+2025-05-13 18:10:19.652 [] [] [main] INFO  c.f.f.i.service.AIPromptService - accept Language header value: null
+2025-05-13 18:10:19.660 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for given parameter.
+2025-05-13 18:10:19.752 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:10:19.753 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:10:19.753 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:10:19.758 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:10:19.758 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:10:19.758 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:10:19.761 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:10:19.761 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:10:19.761 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:10:19.764 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:10:19.764 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:10:19.764 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:10:19.820 [] [] [main] INFO  c.f.f.i.service.AIModelService - Deleting all the models for the tenant test
+2025-05-13 18:10:19.821 [] [] [main] INFO  c.f.f.i.service.AIModelService - Model created with id: null-null-null-null
+2025-05-13 18:10:19.827 [] [] [main] INFO  c.f.f.i.service.AIModelService - AIModel record for id: null-null-null-null, got deleted.
+2025-05-13 18:10:19.938 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: test 
+2025-05-13 18:10:19.938 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight record for id: test, got deleted: true
+2025-05-13 18:10:19.940 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: test 
+2025-05-13 18:10:19.941 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight entity update initiated, id: test
+2025-05-13 18:10:19.941 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight record ES status: CREATED, id: 12345678, version: 1
+2025-05-13 18:10:19.943 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 0, found for id: test 
+2025-05-13 18:10:19.945 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Dismiss Insight record for id: test, got deleted
+2025-05-13 18:10:19.946 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: test 
+2025-05-13 18:10:19.950 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: test 
+2025-05-13 18:10:19.952 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight entity create initiated
+2025-05-13 18:10:19.953 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight record ES status: CREATED, id: 12345678, version: 1
+2025-05-13 18:10:19.956 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 0, found for id: null 
+2025-05-13 18:10:19.958 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 0, found for id: null 
+2025-05-13 18:10:19.959 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight record for id: test, got deleted: true
+2025-05-13 18:10:19.961 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 0, found for id: test 
+2025-05-13 18:10:19.962 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 0, found for id: test 
+2025-05-13 18:10:19.964 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight record for tenant: test, got deleted.
+2025-05-13 18:10:19.967 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: null 
+2025-05-13 18:10:19.967 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Starting insight promotion async.
+2025-05-13 18:10:19.970 [] [] [main] INFO  c.f.f.i.service.AIInsightService - accept Language header value: en
+2025-05-13 18:10:19.970 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Filtering Dismissed insights
+2025-05-13 18:10:19.970 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for given parameter.
+2025-05-13 18:10:19.972 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight dismissal Initiated
+2025-05-13 18:10:19.972 [] [] [main] INFO  c.f.f.i.service.AIInsightService - validating the insightId: 123456
+2025-05-13 18:10:19.972 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: 123456 
+2025-05-13 18:10:19.972 [] [] [main] INFO  c.f.f.i.service.AIInsightService - checking whether the insight is already dismissed or not
+2025-05-13 18:10:19.973 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight record Dismiss status: , id: 123456
+2025-05-13 18:10:19.973 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight dismissal Initiated
+2025-05-13 18:10:19.973 [] [] [main] INFO  c.f.f.i.service.AIInsightService - validating the insightId: 123456
+2025-05-13 18:10:19.973 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: 123456 
+2025-05-13 18:10:19.973 [] [] [main] INFO  c.f.f.i.service.AIInsightService - checking whether the insight is already dismissed or not
+2025-05-13 18:10:19.973 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight record Dismiss status: , id: 123456
+2025-05-13 18:10:19.975 [] [] [main] INFO  c.f.f.i.service.AIInsightService - accept Language header value: en
+2025-05-13 18:10:19.975 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Filtering Dismissed insights
+2025-05-13 18:10:19.975 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for given parameter.
+2025-05-13 18:10:19.978 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: null 
+2025-05-13 18:10:19.978 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Starting update prompt promotion async.
+2025-05-13 18:10:20.138 [] [] [main] INFO  c.f.f.insights.service.AIService - AIService record got deleted: 0
+2025-05-13 18:10:20.139 [] [] [main] INFO  c.f.f.insights.service.AIService - Cloning service for id: test and for tenant: global
+2025-05-13 18:10:20.146 [] [] [main] INFO  c.f.f.insights.service.AIService - Creating suggest service for tenant: global
+2025-05-13 18:10:20.147 [] [] [main] INFO  c.f.f.insights.service.AIService - AIService record got deleted: 1
+2025-05-13 18:10:20.148 [] [] [main] INFO  c.f.f.insights.service.AIService - AIRunServiceVO AIRunServiceVO(aiModel=null, service=null, tenant=freshdesk, platform=azure, serviceVersion=null, sseEmitter=null, mediaType=null, templateKeys=null, features=null, requestData={}, multipartFiles=null, serviceAdaptorId=null, tenantAccountId=null)
+2025-05-13 18:10:20.151 [] [] [main] INFO  c.f.f.insights.service.AIService - Service execution initiated. ServiceId: null
+2025-05-13 18:10:20.153 [] [] [main] INFO  c.f.f.insights.service.AIService - AIService record got deleted: 1
+2025-05-13 18:10:20.153 [] [] [main] INFO  c.f.f.insights.service.AIService - AIRunServiceVO AIRunServiceVO(aiModel=null, service=null, tenant=freshdesk, platform=azure, serviceVersion=null, sseEmitter=null, mediaType=null, templateKeys=null, features=null, requestData={}, multipartFiles=null, serviceAdaptorId=null, tenantAccountId=null)
+2025-05-13 18:10:20.154 [] [] [main] INFO  c.f.f.insights.service.AIService - Service execution initiated. ServiceId: null
+2025-05-13 18:10:20.158 [] [] [main] INFO  c.f.f.insights.service.AIService - Creating suggest service for tenant: global
+2025-05-13 18:10:20.165 [] [] [main] INFO  c.f.f.insights.service.AIService - Creating suggest service for tenant: global
+2025-05-13 18:11:19.251 [] [] [main] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2025-05-13 18:11:19.682 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:11:19.682 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:11:19.684 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 1 ms
+2025-05-13 18:11:19.833 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:11:19.833 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:11:19.834 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 1 ms
+2025-05-13 18:11:19.885 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:11:19.885 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:11:19.885 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:11:19.934 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:11:19.934 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:11:19.934 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:11:19.942 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:11:19.942 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:11:19.942 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:11:19.976 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:11:19.976 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:11:19.976 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:11:19.989 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:11:19.989 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:11:19.989 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:11:20.005 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:11:20.005 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:11:20.005 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:11:20.012 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:11:20.012 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:11:20.012 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:11:20.562 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 0 found for id: test 
+2025-05-13 18:11:20.581 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: null 
+2025-05-13 18:11:20.581 [] [] [main] INFO  c.f.f.i.service.AIPromptService - Starting prompt promotion async.
+2025-05-13 18:11:20.583 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 0 found for id: null 
+2025-05-13 18:11:20.585 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 0 found for id: test 
+2025-05-13 18:11:20.588 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: test 
+2025-05-13 18:11:20.599 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: test 
+2025-05-13 18:11:20.599 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt record for id: test, got deleted: true
+2025-05-13 18:11:20.600 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: test 
+2025-05-13 18:11:20.603 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: null 
+2025-05-13 18:11:20.603 [] [] [main] INFO  c.f.f.i.service.AIPromptService - Starting update prompt promotion async.
+2025-05-13 18:11:20.605 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: test 
+2025-05-13 18:11:20.607 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 0 found for id: test 
+2025-05-13 18:11:20.609 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt record for id: test, got deleted: true
+2025-05-13 18:11:20.612 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 0 found for id: null 
+2025-05-13 18:11:20.624 [] [] [main] INFO  c.f.f.i.service.AIPromptService - Creating prompt entity with id: null
+2025-05-13 18:11:20.627 [] [] [main] INFO  c.f.f.i.service.AIPromptService - accept Language header value: null
+2025-05-13 18:11:20.635 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for given parameter.
+2025-05-13 18:11:20.716 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:11:20.716 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:11:20.716 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:11:20.721 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:11:20.721 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:11:20.721 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:11:20.724 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:11:20.724 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:11:20.725 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 1 ms
+2025-05-13 18:11:20.727 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:11:20.727 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:11:20.727 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:11:20.778 [] [] [main] INFO  c.f.f.i.service.AIModelService - Deleting all the models for the tenant test
+2025-05-13 18:11:20.779 [] [] [main] INFO  c.f.f.i.service.AIModelService - Model created with id: null-null-null-null
+2025-05-13 18:11:20.786 [] [] [main] INFO  c.f.f.i.service.AIModelService - AIModel record for id: null-null-null-null, got deleted.
+2025-05-13 18:11:20.874 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: test 
+2025-05-13 18:11:20.874 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight record for id: test, got deleted: true
+2025-05-13 18:11:20.876 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: test 
+2025-05-13 18:11:20.877 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight entity update initiated, id: test
+2025-05-13 18:11:20.877 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight record ES status: CREATED, id: 12345678, version: 1
+2025-05-13 18:11:20.879 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 0, found for id: test 
+2025-05-13 18:11:20.881 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Dismiss Insight record for id: test, got deleted
+2025-05-13 18:11:20.881 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: test 
+2025-05-13 18:11:20.885 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: test 
+2025-05-13 18:11:20.887 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight entity create initiated
+2025-05-13 18:11:20.887 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight record ES status: CREATED, id: 12345678, version: 1
+2025-05-13 18:11:20.890 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 0, found for id: null 
+2025-05-13 18:11:20.892 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 0, found for id: null 
+2025-05-13 18:11:20.893 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight record for id: test, got deleted: true
+2025-05-13 18:11:20.895 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 0, found for id: test 
+2025-05-13 18:11:20.896 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 0, found for id: test 
+2025-05-13 18:11:20.898 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight record for tenant: test, got deleted.
+2025-05-13 18:11:20.902 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: null 
+2025-05-13 18:11:20.903 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Starting insight promotion async.
+2025-05-13 18:11:20.905 [] [] [main] INFO  c.f.f.i.service.AIInsightService - accept Language header value: en
+2025-05-13 18:11:20.905 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Filtering Dismissed insights
+2025-05-13 18:11:20.905 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for given parameter.
+2025-05-13 18:11:20.908 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight dismissal Initiated
+2025-05-13 18:11:20.908 [] [] [main] INFO  c.f.f.i.service.AIInsightService - validating the insightId: 123456
+2025-05-13 18:11:20.908 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: 123456 
+2025-05-13 18:11:20.908 [] [] [main] INFO  c.f.f.i.service.AIInsightService - checking whether the insight is already dismissed or not
+2025-05-13 18:11:20.908 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight record Dismiss status: , id: 123456
+2025-05-13 18:11:20.908 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight dismissal Initiated
+2025-05-13 18:11:20.908 [] [] [main] INFO  c.f.f.i.service.AIInsightService - validating the insightId: 123456
+2025-05-13 18:11:20.908 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: 123456 
+2025-05-13 18:11:20.908 [] [] [main] INFO  c.f.f.i.service.AIInsightService - checking whether the insight is already dismissed or not
+2025-05-13 18:11:20.908 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight record Dismiss status: , id: 123456
+2025-05-13 18:11:20.910 [] [] [main] INFO  c.f.f.i.service.AIInsightService - accept Language header value: en
+2025-05-13 18:11:20.910 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Filtering Dismissed insights
+2025-05-13 18:11:20.910 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for given parameter.
+2025-05-13 18:11:20.913 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: null 
+2025-05-13 18:11:20.913 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Starting update prompt promotion async.
+2025-05-13 18:11:21.049 [] [] [main] INFO  c.f.f.insights.service.AIService - AIService record got deleted: 0
+2025-05-13 18:11:21.050 [] [] [main] INFO  c.f.f.insights.service.AIService - Cloning service for id: test and for tenant: global
+2025-05-13 18:11:21.056 [] [] [main] INFO  c.f.f.insights.service.AIService - Creating suggest service for tenant: global
+2025-05-13 18:11:21.058 [] [] [main] INFO  c.f.f.insights.service.AIService - AIService record got deleted: 1
+2025-05-13 18:11:21.059 [] [] [main] INFO  c.f.f.insights.service.AIService - AIRunServiceVO AIRunServiceVO(aiModel=null, service=null, tenant=freshdesk, platform=azure, serviceVersion=null, sseEmitter=null, mediaType=null, templateKeys=null, features=null, requestData={}, multipartFiles=null, serviceAdaptorId=null, tenantAccountId=null)
+2025-05-13 18:11:21.062 [] [] [main] INFO  c.f.f.insights.service.AIService - Service execution initiated. ServiceId: null
+2025-05-13 18:11:21.063 [] [] [main] INFO  c.f.f.insights.service.AIService - AIService record got deleted: 1
+2025-05-13 18:11:21.064 [] [] [main] INFO  c.f.f.insights.service.AIService - AIRunServiceVO AIRunServiceVO(aiModel=null, service=null, tenant=freshdesk, platform=azure, serviceVersion=null, sseEmitter=null, mediaType=null, templateKeys=null, features=null, requestData={}, multipartFiles=null, serviceAdaptorId=null, tenantAccountId=null)
+2025-05-13 18:11:21.064 [] [] [main] INFO  c.f.f.insights.service.AIService - Service execution initiated. ServiceId: null
+2025-05-13 18:11:21.068 [] [] [main] INFO  c.f.f.insights.service.AIService - Creating suggest service for tenant: global
+2025-05-13 18:11:21.075 [] [] [main] INFO  c.f.f.insights.service.AIService - Creating suggest service for tenant: global
+2025-05-13 18:11:41.157 [] [] [main] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2025-05-13 18:11:41.625 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:11:41.625 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:11:41.626 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 1 ms
+2025-05-13 18:11:41.777 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:11:41.777 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:11:41.777 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:11:41.830 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:11:41.830 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:11:41.830 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:11:41.876 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:11:41.876 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:11:41.880 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 4 ms
+2025-05-13 18:11:41.889 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:11:41.889 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:11:41.889 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:11:41.924 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:11:41.924 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:11:41.924 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:11:41.938 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:11:41.938 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:11:41.938 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:11:41.955 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:11:41.955 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:11:41.955 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:11:41.961 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:11:41.962 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:11:41.962 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:11:42.670 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 0 found for id: test 
+2025-05-13 18:11:42.689 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: null 
+2025-05-13 18:11:42.689 [] [] [main] INFO  c.f.f.i.service.AIPromptService - Starting prompt promotion async.
+2025-05-13 18:11:42.692 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 0 found for id: null 
+2025-05-13 18:11:42.694 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 0 found for id: test 
+2025-05-13 18:11:42.696 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: test 
+2025-05-13 18:11:42.707 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: test 
+2025-05-13 18:11:42.708 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt record for id: test, got deleted: true
+2025-05-13 18:11:42.709 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: test 
+2025-05-13 18:11:42.712 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: null 
+2025-05-13 18:11:42.712 [] [] [main] INFO  c.f.f.i.service.AIPromptService - Starting update prompt promotion async.
+2025-05-13 18:11:42.714 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: test 
+2025-05-13 18:11:42.716 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 0 found for id: test 
+2025-05-13 18:11:42.718 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt record for id: test, got deleted: true
+2025-05-13 18:11:42.721 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 0 found for id: null 
+2025-05-13 18:11:42.733 [] [] [main] INFO  c.f.f.i.service.AIPromptService - Creating prompt entity with id: null
+2025-05-13 18:11:42.736 [] [] [main] INFO  c.f.f.i.service.AIPromptService - accept Language header value: null
+2025-05-13 18:11:42.744 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for given parameter.
+2025-05-13 18:11:42.829 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:11:42.829 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:11:42.829 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:11:42.834 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:11:42.835 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:11:42.835 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:11:42.838 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:11:42.838 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:11:42.838 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:11:42.841 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:11:42.841 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:11:42.841 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:11:42.896 [] [] [main] INFO  c.f.f.i.service.AIModelService - Deleting all the models for the tenant test
+2025-05-13 18:11:42.897 [] [] [main] INFO  c.f.f.i.service.AIModelService - Model created with id: null-null-null-null
+2025-05-13 18:11:42.904 [] [] [main] INFO  c.f.f.i.service.AIModelService - AIModel record for id: null-null-null-null, got deleted.
+2025-05-13 18:11:43.003 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: test 
+2025-05-13 18:11:43.004 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight record for id: test, got deleted: true
+2025-05-13 18:11:43.006 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: test 
+2025-05-13 18:11:43.007 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight entity update initiated, id: test
+2025-05-13 18:11:43.007 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight record ES status: CREATED, id: 12345678, version: 1
+2025-05-13 18:11:43.009 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 0, found for id: test 
+2025-05-13 18:11:43.012 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Dismiss Insight record for id: test, got deleted
+2025-05-13 18:11:43.012 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: test 
+2025-05-13 18:11:43.016 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: test 
+2025-05-13 18:11:43.022 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight entity create initiated
+2025-05-13 18:11:43.022 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight record ES status: CREATED, id: 12345678, version: 1
+2025-05-13 18:11:43.025 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 0, found for id: null 
+2025-05-13 18:11:43.027 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 0, found for id: null 
+2025-05-13 18:11:43.029 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight record for id: test, got deleted: true
+2025-05-13 18:11:43.030 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 0, found for id: test 
+2025-05-13 18:11:43.032 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 0, found for id: test 
+2025-05-13 18:11:43.033 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight record for tenant: test, got deleted.
+2025-05-13 18:11:43.036 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: null 
+2025-05-13 18:11:43.036 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Starting insight promotion async.
+2025-05-13 18:11:43.039 [] [] [main] INFO  c.f.f.i.service.AIInsightService - accept Language header value: en
+2025-05-13 18:11:43.039 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Filtering Dismissed insights
+2025-05-13 18:11:43.039 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for given parameter.
+2025-05-13 18:11:43.041 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight dismissal Initiated
+2025-05-13 18:11:43.042 [] [] [main] INFO  c.f.f.i.service.AIInsightService - validating the insightId: 123456
+2025-05-13 18:11:43.042 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: 123456 
+2025-05-13 18:11:43.042 [] [] [main] INFO  c.f.f.i.service.AIInsightService - checking whether the insight is already dismissed or not
+2025-05-13 18:11:43.042 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight record Dismiss status: , id: 123456
+2025-05-13 18:11:43.042 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight dismissal Initiated
+2025-05-13 18:11:43.042 [] [] [main] INFO  c.f.f.i.service.AIInsightService - validating the insightId: 123456
+2025-05-13 18:11:43.042 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: 123456 
+2025-05-13 18:11:43.042 [] [] [main] INFO  c.f.f.i.service.AIInsightService - checking whether the insight is already dismissed or not
+2025-05-13 18:11:43.042 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight record Dismiss status: , id: 123456
+2025-05-13 18:11:43.044 [] [] [main] INFO  c.f.f.i.service.AIInsightService - accept Language header value: en
+2025-05-13 18:11:43.044 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Filtering Dismissed insights
+2025-05-13 18:11:43.044 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for given parameter.
+2025-05-13 18:11:43.047 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: null 
+2025-05-13 18:11:43.047 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Starting update prompt promotion async.
+2025-05-13 18:11:43.189 [] [] [main] INFO  c.f.f.insights.service.AIService - AIService record got deleted: 0
+2025-05-13 18:11:43.191 [] [] [main] INFO  c.f.f.insights.service.AIService - Cloning service for id: test and for tenant: global
+2025-05-13 18:11:43.197 [] [] [main] INFO  c.f.f.insights.service.AIService - Creating suggest service for tenant: global
+2025-05-13 18:11:43.198 [] [] [main] INFO  c.f.f.insights.service.AIService - AIService record got deleted: 1
+2025-05-13 18:11:43.200 [] [] [main] INFO  c.f.f.insights.service.AIService - AIRunServiceVO AIRunServiceVO(aiModel=null, service=null, tenant=freshdesk, platform=azure, serviceVersion=null, sseEmitter=null, mediaType=null, templateKeys=null, features=null, requestData={}, multipartFiles=null, serviceAdaptorId=null, tenantAccountId=null)
+2025-05-13 18:11:43.202 [] [] [main] INFO  c.f.f.insights.service.AIService - Service execution initiated. ServiceId: null
+2025-05-13 18:11:43.204 [] [] [main] INFO  c.f.f.insights.service.AIService - AIService record got deleted: 1
+2025-05-13 18:11:43.205 [] [] [main] INFO  c.f.f.insights.service.AIService - AIRunServiceVO AIRunServiceVO(aiModel=null, service=null, tenant=freshdesk, platform=azure, serviceVersion=null, sseEmitter=null, mediaType=null, templateKeys=null, features=null, requestData={}, multipartFiles=null, serviceAdaptorId=null, tenantAccountId=null)
+2025-05-13 18:11:43.205 [] [] [main] INFO  c.f.f.insights.service.AIService - Service execution initiated. ServiceId: null
+2025-05-13 18:11:43.209 [] [] [main] INFO  c.f.f.insights.service.AIService - Creating suggest service for tenant: global
+2025-05-13 18:11:43.216 [] [] [main] INFO  c.f.f.insights.service.AIService - Creating suggest service for tenant: global
+2025-05-13 18:12:16.939 [] [] [main] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2025-05-13 18:12:17.435 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:12:17.435 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:12:17.436 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 1 ms
+2025-05-13 18:12:17.620 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:12:17.620 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:12:17.620 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:12:17.681 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:12:17.682 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:12:17.682 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:12:17.732 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:12:17.732 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:12:17.732 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:12:17.741 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:12:17.741 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:12:17.741 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:12:17.783 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:12:17.783 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:12:17.784 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 1 ms
+2025-05-13 18:12:17.798 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:12:17.798 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:12:17.798 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:12:17.817 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:12:17.817 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:12:17.817 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:12:17.825 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:12:17.825 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:12:17.825 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:12:18.571 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 0 found for id: test 
+2025-05-13 18:12:18.611 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: null 
+2025-05-13 18:12:18.611 [] [] [main] INFO  c.f.f.i.service.AIPromptService - Starting prompt promotion async.
+2025-05-13 18:12:18.615 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 0 found for id: null 
+2025-05-13 18:12:18.618 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 0 found for id: test 
+2025-05-13 18:12:18.620 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: test 
+2025-05-13 18:12:18.634 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: test 
+2025-05-13 18:12:18.634 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt record for id: test, got deleted: true
+2025-05-13 18:12:18.635 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: test 
+2025-05-13 18:12:18.640 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: null 
+2025-05-13 18:12:18.640 [] [] [main] INFO  c.f.f.i.service.AIPromptService - Starting update prompt promotion async.
+2025-05-13 18:12:18.643 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: test 
+2025-05-13 18:12:18.645 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 0 found for id: test 
+2025-05-13 18:12:18.647 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt record for id: test, got deleted: true
+2025-05-13 18:12:18.650 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 0 found for id: null 
+2025-05-13 18:12:18.663 [] [] [main] INFO  c.f.f.i.service.AIPromptService - Creating prompt entity with id: null
+2025-05-13 18:12:18.666 [] [] [main] INFO  c.f.f.i.service.AIPromptService - accept Language header value: null
+2025-05-13 18:12:18.674 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for given parameter.
+2025-05-13 18:12:18.762 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:12:18.762 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:12:18.762 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:12:18.767 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:12:18.767 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:12:18.768 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 1 ms
+2025-05-13 18:12:18.771 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:12:18.771 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:12:18.771 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:12:18.773 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:12:18.774 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:12:18.774 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:12:18.834 [] [] [main] INFO  c.f.f.i.service.AIModelService - Deleting all the models for the tenant test
+2025-05-13 18:12:18.835 [] [] [main] INFO  c.f.f.i.service.AIModelService - Model created with id: null-null-null-null
+2025-05-13 18:12:18.841 [] [] [main] INFO  c.f.f.i.service.AIModelService - AIModel record for id: null-null-null-null, got deleted.
+2025-05-13 18:12:18.942 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: test 
+2025-05-13 18:12:18.943 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight record for id: test, got deleted: true
+2025-05-13 18:12:18.945 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: test 
+2025-05-13 18:12:18.946 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight entity update initiated, id: test
+2025-05-13 18:12:18.946 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight record ES status: CREATED, id: 12345678, version: 1
+2025-05-13 18:12:18.948 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 0, found for id: test 
+2025-05-13 18:12:18.950 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Dismiss Insight record for id: test, got deleted
+2025-05-13 18:12:18.950 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: test 
+2025-05-13 18:12:18.954 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: test 
+2025-05-13 18:12:18.956 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight entity create initiated
+2025-05-13 18:12:18.956 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight record ES status: CREATED, id: 12345678, version: 1
+2025-05-13 18:12:18.959 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 0, found for id: null 
+2025-05-13 18:12:18.961 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 0, found for id: null 
+2025-05-13 18:12:18.963 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight record for id: test, got deleted: true
+2025-05-13 18:12:18.964 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 0, found for id: test 
+2025-05-13 18:12:18.966 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 0, found for id: test 
+2025-05-13 18:12:18.967 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight record for tenant: test, got deleted.
+2025-05-13 18:12:18.970 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: null 
+2025-05-13 18:12:18.970 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Starting insight promotion async.
+2025-05-13 18:12:18.972 [] [] [main] INFO  c.f.f.i.service.AIInsightService - accept Language header value: en
+2025-05-13 18:12:18.973 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Filtering Dismissed insights
+2025-05-13 18:12:18.973 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for given parameter.
+2025-05-13 18:12:18.975 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight dismissal Initiated
+2025-05-13 18:12:18.975 [] [] [main] INFO  c.f.f.i.service.AIInsightService - validating the insightId: 123456
+2025-05-13 18:12:18.975 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: 123456 
+2025-05-13 18:12:18.975 [] [] [main] INFO  c.f.f.i.service.AIInsightService - checking whether the insight is already dismissed or not
+2025-05-13 18:12:18.975 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight record Dismiss status: , id: 123456
+2025-05-13 18:12:18.975 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight dismissal Initiated
+2025-05-13 18:12:18.975 [] [] [main] INFO  c.f.f.i.service.AIInsightService - validating the insightId: 123456
+2025-05-13 18:12:18.975 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: 123456 
+2025-05-13 18:12:18.975 [] [] [main] INFO  c.f.f.i.service.AIInsightService - checking whether the insight is already dismissed or not
+2025-05-13 18:12:18.976 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight record Dismiss status: , id: 123456
+2025-05-13 18:12:18.977 [] [] [main] INFO  c.f.f.i.service.AIInsightService - accept Language header value: en
+2025-05-13 18:12:18.977 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Filtering Dismissed insights
+2025-05-13 18:12:18.978 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for given parameter.
+2025-05-13 18:12:18.981 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: null 
+2025-05-13 18:12:18.981 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Starting update prompt promotion async.
+2025-05-13 18:12:19.124 [] [] [main] INFO  c.f.f.insights.service.AIService - AIService record got deleted: 0
+2025-05-13 18:12:19.126 [] [] [main] INFO  c.f.f.insights.service.AIService - Cloning service for id: test and for tenant: global
+2025-05-13 18:12:19.132 [] [] [main] INFO  c.f.f.insights.service.AIService - Creating suggest service for tenant: global
+2025-05-13 18:12:19.134 [] [] [main] INFO  c.f.f.insights.service.AIService - AIService record got deleted: 1
+2025-05-13 18:12:19.135 [] [] [main] INFO  c.f.f.insights.service.AIService - AIRunServiceVO AIRunServiceVO(aiModel=null, service=null, tenant=freshdesk, platform=azure, serviceVersion=null, sseEmitter=null, mediaType=null, templateKeys=null, features=null, requestData={}, multipartFiles=null, serviceAdaptorId=null, tenantAccountId=null)
+2025-05-13 18:12:19.138 [] [] [main] INFO  c.f.f.insights.service.AIService - Service execution initiated. ServiceId: null
+2025-05-13 18:12:19.139 [] [] [main] INFO  c.f.f.insights.service.AIService - AIService record got deleted: 1
+2025-05-13 18:12:19.140 [] [] [main] INFO  c.f.f.insights.service.AIService - AIRunServiceVO AIRunServiceVO(aiModel=null, service=null, tenant=freshdesk, platform=azure, serviceVersion=null, sseEmitter=null, mediaType=null, templateKeys=null, features=null, requestData={}, multipartFiles=null, serviceAdaptorId=null, tenantAccountId=null)
+2025-05-13 18:12:19.141 [] [] [main] INFO  c.f.f.insights.service.AIService - Service execution initiated. ServiceId: null
+2025-05-13 18:12:19.145 [] [] [main] INFO  c.f.f.insights.service.AIService - Creating suggest service for tenant: global
+2025-05-13 18:12:19.152 [] [] [main] INFO  c.f.f.insights.service.AIService - Creating suggest service for tenant: global
+2025-05-13 18:14:11.877 [] [] [main] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2025-05-13 18:14:13.568 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:14:13.568 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:14:13.571 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 2 ms
+2025-05-13 18:14:13.854 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:14:13.855 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:14:13.855 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:14:13.950 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:14:13.950 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:14:13.951 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:14:14.013 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:14:14.014 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:14:14.014 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:14:14.023 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:14:14.023 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:14:14.023 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:14:14.068 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:14:14.068 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:14:14.068 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:14:14.086 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:14:14.086 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:14:14.086 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:14:14.111 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:14:14.112 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:14:14.112 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:14:14.122 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:14:14.122 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:14:14.123 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 1 ms
+2025-05-13 18:14:14.715 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 0 found for id: test 
+2025-05-13 18:14:14.741 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: null 
+2025-05-13 18:14:14.741 [] [] [main] INFO  c.f.f.i.service.AIPromptService - Starting prompt promotion async.
+2025-05-13 18:14:14.745 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 0 found for id: null 
+2025-05-13 18:14:14.748 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 0 found for id: test 
+2025-05-13 18:14:14.752 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: test 
+2025-05-13 18:14:14.765 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: test 
+2025-05-13 18:14:14.766 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt record for id: test, got deleted: true
+2025-05-13 18:14:14.767 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: test 
+2025-05-13 18:14:14.772 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: null 
+2025-05-13 18:14:14.772 [] [] [main] INFO  c.f.f.i.service.AIPromptService - Starting update prompt promotion async.
+2025-05-13 18:14:14.776 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: test 
+2025-05-13 18:14:14.779 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 0 found for id: test 
+2025-05-13 18:14:14.782 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt record for id: test, got deleted: true
+2025-05-13 18:14:14.785 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 0 found for id: null 
+2025-05-13 18:14:14.798 [] [] [main] INFO  c.f.f.i.service.AIPromptService - Creating prompt entity with id: null
+2025-05-13 18:14:14.802 [] [] [main] INFO  c.f.f.i.service.AIPromptService - accept Language header value: null
+2025-05-13 18:14:14.812 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for given parameter.
+2025-05-13 18:14:14.902 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:14:14.903 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:14:14.903 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:14:14.908 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:14:14.908 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:14:14.908 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:14:14.912 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:14:14.912 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:14:14.912 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:14:14.916 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:14:14.916 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:14:14.916 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:14:14.971 [] [] [main] INFO  c.f.f.i.service.AIModelService - Deleting all the models for the tenant test
+2025-05-13 18:14:14.973 [] [] [main] INFO  c.f.f.i.service.AIModelService - Model created with id: null-null-null-null
+2025-05-13 18:14:14.980 [] [] [main] INFO  c.f.f.i.service.AIModelService - AIModel record for id: null-null-null-null, got deleted.
+2025-05-13 18:14:15.075 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: test 
+2025-05-13 18:14:15.075 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight record for id: test, got deleted: true
+2025-05-13 18:14:15.077 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: test 
+2025-05-13 18:14:15.078 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight entity update initiated, id: test
+2025-05-13 18:14:15.078 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight record ES status: CREATED, id: 12345678, version: 1
+2025-05-13 18:14:15.080 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 0, found for id: test 
+2025-05-13 18:14:15.083 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Dismiss Insight record for id: test, got deleted
+2025-05-13 18:14:15.083 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: test 
+2025-05-13 18:14:15.085 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: test 
+2025-05-13 18:14:15.089 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight entity create initiated
+2025-05-13 18:14:15.089 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight record ES status: CREATED, id: 12345678, version: 1
+2025-05-13 18:14:15.092 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 0, found for id: null 
+2025-05-13 18:14:15.094 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 0, found for id: null 
+2025-05-13 18:14:15.095 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight record for id: test, got deleted: true
+2025-05-13 18:14:15.097 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 0, found for id: test 
+2025-05-13 18:14:15.099 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 0, found for id: test 
+2025-05-13 18:14:15.100 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight record for tenant: test, got deleted.
+2025-05-13 18:14:15.103 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: null 
+2025-05-13 18:14:15.103 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Starting insight promotion async.
+2025-05-13 18:14:15.106 [] [] [main] INFO  c.f.f.i.service.AIInsightService - accept Language header value: en
+2025-05-13 18:14:15.106 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Filtering Dismissed insights
+2025-05-13 18:14:15.106 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for given parameter.
+2025-05-13 18:14:15.108 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight dismissal Initiated
+2025-05-13 18:14:15.108 [] [] [main] INFO  c.f.f.i.service.AIInsightService - validating the insightId: 123456
+2025-05-13 18:14:15.109 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: 123456 
+2025-05-13 18:14:15.109 [] [] [main] INFO  c.f.f.i.service.AIInsightService - checking whether the insight is already dismissed or not
+2025-05-13 18:14:15.109 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight record Dismiss status: , id: 123456
+2025-05-13 18:14:15.109 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight dismissal Initiated
+2025-05-13 18:14:15.109 [] [] [main] INFO  c.f.f.i.service.AIInsightService - validating the insightId: 123456
+2025-05-13 18:14:15.109 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: 123456 
+2025-05-13 18:14:15.109 [] [] [main] INFO  c.f.f.i.service.AIInsightService - checking whether the insight is already dismissed or not
+2025-05-13 18:14:15.109 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight record Dismiss status: , id: 123456
+2025-05-13 18:14:15.111 [] [] [main] INFO  c.f.f.i.service.AIInsightService - accept Language header value: en
+2025-05-13 18:14:15.111 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Filtering Dismissed insights
+2025-05-13 18:14:15.111 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for given parameter.
+2025-05-13 18:14:15.115 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: null 
+2025-05-13 18:14:15.115 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Starting update prompt promotion async.
+2025-05-13 18:14:15.258 [] [] [main] INFO  c.f.f.insights.service.AIService - AIService record got deleted: 0
+2025-05-13 18:14:15.260 [] [] [main] INFO  c.f.f.insights.service.AIService - Cloning service for id: test and for tenant: global
+2025-05-13 18:14:15.266 [] [] [main] INFO  c.f.f.insights.service.AIService - Creating suggest service for tenant: global
+2025-05-13 18:14:15.268 [] [] [main] INFO  c.f.f.insights.service.AIService - AIService record got deleted: 1
+2025-05-13 18:14:15.270 [] [] [main] INFO  c.f.f.insights.service.AIService - AIRunServiceVO AIRunServiceVO(aiModel=null, service=null, tenant=freshdesk, platform=azure, serviceVersion=null, sseEmitter=null, mediaType=null, templateKeys=null, features=null, requestData={}, multipartFiles=null, serviceAdaptorId=null, tenantAccountId=null)
+2025-05-13 18:14:15.272 [] [] [main] INFO  c.f.f.insights.service.AIService - Service execution initiated. ServiceId: null
+2025-05-13 18:14:15.274 [] [] [main] INFO  c.f.f.insights.service.AIService - AIService record got deleted: 1
+2025-05-13 18:14:15.276 [] [] [main] INFO  c.f.f.insights.service.AIService - AIRunServiceVO AIRunServiceVO(aiModel=null, service=null, tenant=freshdesk, platform=azure, serviceVersion=null, sseEmitter=null, mediaType=null, templateKeys=null, features=null, requestData={}, multipartFiles=null, serviceAdaptorId=null, tenantAccountId=null)
+2025-05-13 18:14:15.276 [] [] [main] INFO  c.f.f.insights.service.AIService - Service execution initiated. ServiceId: null
+2025-05-13 18:14:15.281 [] [] [main] INFO  c.f.f.insights.service.AIService - Creating suggest service for tenant: global
+2025-05-13 18:14:15.292 [] [] [main] INFO  c.f.f.insights.service.AIService - Creating suggest service for tenant: global
+2025-05-13 18:19:10.174 [] [] [main] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2025-05-13 18:19:10.646 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:19:10.647 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:19:10.648 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 1 ms
+2025-05-13 18:19:10.797 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:19:10.797 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:19:10.798 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 1 ms
+2025-05-13 18:19:10.849 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:19:10.849 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:19:10.849 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:19:10.895 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:19:10.895 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:19:10.895 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:19:10.903 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:19:10.904 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:19:10.904 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:19:10.941 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:19:10.941 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:19:10.941 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:19:10.955 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:19:10.955 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:19:10.955 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:19:10.971 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:19:10.971 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:19:10.971 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:19:10.978 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:19:10.978 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:19:10.978 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:19:11.643 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 0 found for id: test 
+2025-05-13 18:19:11.660 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: null 
+2025-05-13 18:19:11.660 [] [] [main] INFO  c.f.f.i.service.AIPromptService - Starting prompt promotion async.
+2025-05-13 18:19:11.663 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 0 found for id: null 
+2025-05-13 18:19:11.665 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 0 found for id: test 
+2025-05-13 18:19:11.667 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: test 
+2025-05-13 18:19:11.678 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: test 
+2025-05-13 18:19:11.679 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt record for id: test, got deleted: true
+2025-05-13 18:19:11.680 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: test 
+2025-05-13 18:19:11.683 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: null 
+2025-05-13 18:19:11.683 [] [] [main] INFO  c.f.f.i.service.AIPromptService - Starting update prompt promotion async.
+2025-05-13 18:19:11.685 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: test 
+2025-05-13 18:19:11.687 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 0 found for id: test 
+2025-05-13 18:19:11.689 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt record for id: test, got deleted: true
+2025-05-13 18:19:11.692 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 0 found for id: null 
+2025-05-13 18:19:11.703 [] [] [main] INFO  c.f.f.i.service.AIPromptService - Creating prompt entity with id: null
+2025-05-13 18:19:11.706 [] [] [main] INFO  c.f.f.i.service.AIPromptService - accept Language header value: null
+2025-05-13 18:19:11.716 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for given parameter.
+2025-05-13 18:19:11.805 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:19:11.805 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:19:11.805 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:19:11.811 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:19:11.811 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:19:11.811 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:19:11.814 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:19:11.814 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:19:11.814 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:19:11.817 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:19:11.817 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:19:11.817 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:19:11.872 [] [] [main] INFO  c.f.f.i.service.AIModelService - Deleting all the models for the tenant test
+2025-05-13 18:19:11.873 [] [] [main] INFO  c.f.f.i.service.AIModelService - Model created with id: null-null-null-null
+2025-05-13 18:19:11.879 [] [] [main] INFO  c.f.f.i.service.AIModelService - AIModel record for id: null-null-null-null, got deleted.
+2025-05-13 18:19:11.981 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: test 
+2025-05-13 18:19:11.981 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight record for id: test, got deleted: true
+2025-05-13 18:19:11.983 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: test 
+2025-05-13 18:19:11.985 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight entity update initiated, id: test
+2025-05-13 18:19:11.985 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight record ES status: CREATED, id: 12345678, version: 1
+2025-05-13 18:19:11.986 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 0, found for id: test 
+2025-05-13 18:19:11.989 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Dismiss Insight record for id: test, got deleted
+2025-05-13 18:19:11.989 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: test 
+2025-05-13 18:19:11.992 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: test 
+2025-05-13 18:19:11.995 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight entity create initiated
+2025-05-13 18:19:11.995 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight record ES status: CREATED, id: 12345678, version: 1
+2025-05-13 18:19:11.998 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 0, found for id: null 
+2025-05-13 18:19:12.000 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 0, found for id: null 
+2025-05-13 18:19:12.002 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight record for id: test, got deleted: true
+2025-05-13 18:19:12.003 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 0, found for id: test 
+2025-05-13 18:19:12.005 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 0, found for id: test 
+2025-05-13 18:19:12.007 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight record for tenant: test, got deleted.
+2025-05-13 18:19:12.009 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: null 
+2025-05-13 18:19:12.010 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Starting insight promotion async.
+2025-05-13 18:19:12.012 [] [] [main] INFO  c.f.f.i.service.AIInsightService - accept Language header value: en
+2025-05-13 18:19:12.012 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Filtering Dismissed insights
+2025-05-13 18:19:12.012 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for given parameter.
+2025-05-13 18:19:12.015 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight dismissal Initiated
+2025-05-13 18:19:12.015 [] [] [main] INFO  c.f.f.i.service.AIInsightService - validating the insightId: 123456
+2025-05-13 18:19:12.015 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: 123456 
+2025-05-13 18:19:12.015 [] [] [main] INFO  c.f.f.i.service.AIInsightService - checking whether the insight is already dismissed or not
+2025-05-13 18:19:12.015 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight record Dismiss status: , id: 123456
+2025-05-13 18:19:12.015 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight dismissal Initiated
+2025-05-13 18:19:12.015 [] [] [main] INFO  c.f.f.i.service.AIInsightService - validating the insightId: 123456
+2025-05-13 18:19:12.015 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: 123456 
+2025-05-13 18:19:12.015 [] [] [main] INFO  c.f.f.i.service.AIInsightService - checking whether the insight is already dismissed or not
+2025-05-13 18:19:12.015 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight record Dismiss status: , id: 123456
+2025-05-13 18:19:12.017 [] [] [main] INFO  c.f.f.i.service.AIInsightService - accept Language header value: en
+2025-05-13 18:19:12.017 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Filtering Dismissed insights
+2025-05-13 18:19:12.017 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for given parameter.
+2025-05-13 18:19:12.021 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: null 
+2025-05-13 18:19:12.021 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Starting update prompt promotion async.
+2025-05-13 18:19:12.171 [] [] [main] INFO  c.f.f.insights.service.AIService - AIService record got deleted: 0
+2025-05-13 18:19:12.172 [] [] [main] INFO  c.f.f.insights.service.AIService - Cloning service for id: test and for tenant: global
+2025-05-13 18:19:12.179 [] [] [main] INFO  c.f.f.insights.service.AIService - Creating suggest service for tenant: global
+2025-05-13 18:19:12.180 [] [] [main] INFO  c.f.f.insights.service.AIService - AIService record got deleted: 1
+2025-05-13 18:19:12.182 [] [] [main] INFO  c.f.f.insights.service.AIService - AIRunServiceVO AIRunServiceVO(aiModel=null, service=null, tenant=freshdesk, platform=azure, serviceVersion=null, sseEmitter=null, mediaType=null, templateKeys=null, features=null, requestData={}, multipartFiles=null, serviceAdaptorId=null, tenantAccountId=null)
+2025-05-13 18:19:12.185 [] [] [main] INFO  c.f.f.insights.service.AIService - Service execution initiated. ServiceId: null
+2025-05-13 18:19:12.186 [] [] [main] INFO  c.f.f.insights.service.AIService - AIService record got deleted: 1
+2025-05-13 18:19:12.187 [] [] [main] INFO  c.f.f.insights.service.AIService - AIRunServiceVO AIRunServiceVO(aiModel=null, service=null, tenant=freshdesk, platform=azure, serviceVersion=null, sseEmitter=null, mediaType=null, templateKeys=null, features=null, requestData={}, multipartFiles=null, serviceAdaptorId=null, tenantAccountId=null)
+2025-05-13 18:19:12.187 [] [] [main] INFO  c.f.f.insights.service.AIService - Service execution initiated. ServiceId: null
+2025-05-13 18:19:12.191 [] [] [main] INFO  c.f.f.insights.service.AIService - Creating suggest service for tenant: global
+2025-05-13 18:19:12.199 [] [] [main] INFO  c.f.f.insights.service.AIService - Creating suggest service for tenant: global
+2025-05-13 18:22:05.142 [] [] [main] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2025-05-13 18:22:05.600 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:22:05.600 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:22:05.601 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 1 ms
+2025-05-13 18:22:05.755 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:22:05.755 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:22:05.755 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:22:05.807 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:22:05.807 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:22:05.807 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:22:05.855 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:22:05.855 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:22:05.855 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:22:05.864 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:22:05.864 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:22:05.864 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:22:05.903 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:22:05.903 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:22:05.903 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:22:05.917 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:22:05.917 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:22:05.917 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:22:05.935 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:22:05.935 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:22:05.935 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:22:05.942 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:22:05.942 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:22:05.942 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:22:06.625 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 0 found for id: test 
+2025-05-13 18:22:06.644 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: null 
+2025-05-13 18:22:06.645 [] [] [main] INFO  c.f.f.i.service.AIPromptService - Starting prompt promotion async.
+2025-05-13 18:22:06.647 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 0 found for id: null 
+2025-05-13 18:22:06.649 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 0 found for id: test 
+2025-05-13 18:22:06.652 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: test 
+2025-05-13 18:22:06.663 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: test 
+2025-05-13 18:22:06.663 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt record for id: test, got deleted: true
+2025-05-13 18:22:06.664 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: test 
+2025-05-13 18:22:06.668 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: null 
+2025-05-13 18:22:06.668 [] [] [main] INFO  c.f.f.i.service.AIPromptService - Starting update prompt promotion async.
+2025-05-13 18:22:06.670 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for id: test 
+2025-05-13 18:22:06.672 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 0 found for id: test 
+2025-05-13 18:22:06.674 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt record for id: test, got deleted: true
+2025-05-13 18:22:06.676 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 0 found for id: null 
+2025-05-13 18:22:06.689 [] [] [main] INFO  c.f.f.i.service.AIPromptService - Creating prompt entity with id: null
+2025-05-13 18:22:06.691 [] [] [main] INFO  c.f.f.i.service.AIPromptService - accept Language header value: null
+2025-05-13 18:22:06.700 [] [] [main] INFO  c.f.f.i.service.AIPromptService - AIPrompt docs: 1 found for given parameter.
+2025-05-13 18:22:06.786 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:22:06.786 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:22:06.786 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:22:06.791 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:22:06.791 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:22:06.792 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:22:06.795 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:22:06.795 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:22:06.795 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:22:06.798 [] [] [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-05-13 18:22:06.798 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-05-13 18:22:06.798 [] [] [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-05-13 18:22:06.853 [] [] [main] INFO  c.f.f.i.service.AIModelService - Deleting all the models for the tenant test
+2025-05-13 18:22:06.854 [] [] [main] INFO  c.f.f.i.service.AIModelService - Model created with id: null-null-null-null
+2025-05-13 18:22:06.861 [] [] [main] INFO  c.f.f.i.service.AIModelService - AIModel record for id: null-null-null-null, got deleted.
+2025-05-13 18:22:06.962 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: test 
+2025-05-13 18:22:06.962 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight record for id: test, got deleted: true
+2025-05-13 18:22:06.964 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: test 
+2025-05-13 18:22:06.965 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight entity update initiated, id: test
+2025-05-13 18:22:06.965 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight record ES status: CREATED, id: 12345678, version: 1
+2025-05-13 18:22:06.967 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 0, found for id: test 
+2025-05-13 18:22:06.969 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Dismiss Insight record for id: test, got deleted
+2025-05-13 18:22:06.969 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: test 
+2025-05-13 18:22:06.973 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: test 
+2025-05-13 18:22:06.976 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight entity create initiated
+2025-05-13 18:22:06.976 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight record ES status: CREATED, id: 12345678, version: 1
+2025-05-13 18:22:06.979 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 0, found for id: null 
+2025-05-13 18:22:06.981 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 0, found for id: null 
+2025-05-13 18:22:06.985 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight record for id: test, got deleted: true
+2025-05-13 18:22:06.987 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 0, found for id: test 
+2025-05-13 18:22:06.989 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 0, found for id: test 
+2025-05-13 18:22:06.990 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight record for tenant: test, got deleted.
+2025-05-13 18:22:06.993 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: null 
+2025-05-13 18:22:06.993 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Starting insight promotion async.
+2025-05-13 18:22:06.995 [] [] [main] INFO  c.f.f.i.service.AIInsightService - accept Language header value: en
+2025-05-13 18:22:06.995 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Filtering Dismissed insights
+2025-05-13 18:22:06.996 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for given parameter.
+2025-05-13 18:22:06.998 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight dismissal Initiated
+2025-05-13 18:22:06.998 [] [] [main] INFO  c.f.f.i.service.AIInsightService - validating the insightId: 123456
+2025-05-13 18:22:06.998 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: 123456 
+2025-05-13 18:22:06.998 [] [] [main] INFO  c.f.f.i.service.AIInsightService - checking whether the insight is already dismissed or not
+2025-05-13 18:22:06.998 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight record Dismiss status: , id: 123456
+2025-05-13 18:22:06.998 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight dismissal Initiated
+2025-05-13 18:22:06.998 [] [] [main] INFO  c.f.f.i.service.AIInsightService - validating the insightId: 123456
+2025-05-13 18:22:06.998 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: 123456 
+2025-05-13 18:22:06.998 [] [] [main] INFO  c.f.f.i.service.AIInsightService - checking whether the insight is already dismissed or not
+2025-05-13 18:22:06.999 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Insight record Dismiss status: , id: 123456
+2025-05-13 18:22:07.000 [] [] [main] INFO  c.f.f.i.service.AIInsightService - accept Language header value: en
+2025-05-13 18:22:07.000 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Filtering Dismissed insights
+2025-05-13 18:22:07.001 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for given parameter.
+2025-05-13 18:22:07.004 [] [] [main] INFO  c.f.f.i.service.AIInsightService - AIInsight docs: 1, found for id: null 
+2025-05-13 18:22:07.004 [] [] [main] INFO  c.f.f.i.service.AIInsightService - Starting update prompt promotion async.
+2025-05-13 18:22:07.147 [] [] [main] INFO  c.f.f.insights.service.AIService - AIService record got deleted: 0
+2025-05-13 18:22:07.149 [] [] [main] INFO  c.f.f.insights.service.AIService - Cloning service for id: test and for tenant: global
+2025-05-13 18:22:07.154 [] [] [main] INFO  c.f.f.insights.service.AIService - Creating suggest service for tenant: global
+2025-05-13 18:22:07.156 [] [] [main] INFO  c.f.f.insights.service.AIService - AIService record got deleted: 1
+2025-05-13 18:22:07.157 [] [] [main] INFO  c.f.f.insights.service.AIService - AIRunServiceVO AIRunServiceVO(aiModel=null, service=null, tenant=freshdesk, platform=azure, serviceVersion=null, sseEmitter=null, mediaType=null, templateKeys=null, features=null, requestData={}, multipartFiles=null, serviceAdaptorId=null, tenantAccountId=null)
+2025-05-13 18:22:07.160 [] [] [main] INFO  c.f.f.insights.service.AIService - Service execution initiated. ServiceId: null
+2025-05-13 18:22:07.161 [] [] [main] INFO  c.f.f.insights.service.AIService - AIService record got deleted: 1
+2025-05-13 18:22:07.162 [] [] [main] INFO  c.f.f.insights.service.AIService - AIRunServiceVO AIRunServiceVO(aiModel=null, service=null, tenant=freshdesk, platform=azure, serviceVersion=null, sseEmitter=null, mediaType=null, templateKeys=null, features=null, requestData={}, multipartFiles=null, serviceAdaptorId=null, tenantAccountId=null)
+2025-05-13 18:22:07.162 [] [] [main] INFO  c.f.f.insights.service.AIService - Service execution initiated. ServiceId: null
+2025-05-13 18:22:07.166 [] [] [main] INFO  c.f.f.insights.service.AIService - Creating suggest service for tenant: global
+2025-05-13 18:22:07.173 [] [] [main] INFO  c.f.f.insights.service.AIService - Creating suggest service for tenant: global

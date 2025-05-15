@@ -1,0 +1,28 @@
+{
+  "createBundleWithoutTenantFiltersPayloadData": {
+    "bundle": "rnd_bundle",
+    "tenant_list": [
+      "test"
+    ]
+  },
+  "createBundleWithTenantFiltersUsingGroupIdAndMetricsPayloadData": {
+    "bundle": "test",
+    "tenant_list": [
+      "test"
+    ],
+    "tenant_filters": {
+      "test": [
+        "metric",
+        "group_id"
+      ]
+    }
+  },
+  "createBundleWithoutTenantList": {
+    "bundle": "test"
+  },
+  "createBundleWithoutBundle": {
+    "tenant_list": [
+      "test"
+    ]
+  }
+}

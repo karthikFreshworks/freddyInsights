@@ -1,0 +1,19 @@
+{
+  "strategies": [
+    {
+      "name": null,
+      "stickiness": "user_id",
+      "condition": "account.id == 1",
+      "distributions": [
+        {
+          "variant": "modelA",
+          "weight": 200
+        },
+        {
+          "variant": "modelB",
+          "weight": 800
+        }
+      ]
+    }
+  ]
+}

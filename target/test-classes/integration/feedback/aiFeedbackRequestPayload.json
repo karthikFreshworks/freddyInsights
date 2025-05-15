@@ -1,0 +1,10 @@
+{
+  "aiFeedbackRequestPayload": {
+    "feature":"test",
+    "is_helpful":false,
+    "feedback":  {
+      "comments": "comment",
+      "button_texts": ["not useful", "useful"]
+    }
+  }
+}

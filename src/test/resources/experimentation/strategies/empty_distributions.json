@@ -1,0 +1,10 @@
+{
+  "strategies": [
+    {
+      "name": "Route based on user in an account",
+      "stickiness": "user_id",
+      "condition": "account.id == 1",
+      "distributions": []
+    }
+  ]
+}

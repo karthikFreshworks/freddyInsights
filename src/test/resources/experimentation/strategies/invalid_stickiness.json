@@ -1,0 +1,19 @@
+{
+  "strategies": [
+    {
+      "name": "Route based on user in an account",
+      "stickiness": "user id",
+      "condition": "account.id == 1",
+      "distributions": [
+        {
+          "variant": "modelA",
+          "weight": 200
+        },
+        {
+          "variant": "modelB",
+          "weight": 800
+        }
+      ]
+    }
+  ]
+}

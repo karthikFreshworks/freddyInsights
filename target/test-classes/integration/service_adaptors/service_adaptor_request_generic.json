@@ -1,0 +1,13 @@
+{
+  "name": "translation-service-adaptor",
+  "tenant": "{tenant}",
+  "validations": {},
+  "type": "DEFAULT",
+  "platform_mappings": {
+    "azure": {
+      "error_code_mappings": {
+        "400": "return [\"failed\"].contains(response.message) ? \"GENERIC_ERROR\" : null"
+      }
+    }
+  }
+}
