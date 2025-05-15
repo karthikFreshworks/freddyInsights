@@ -10,9 +10,9 @@
 	</parent>
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.freshworks.freddy</groupId>
-	<artifactId>insights</artifactId>
+	<artifactId>freddyInsights</artifactId>
 	<version>${revision}${changelist}</version>
-	<name>insights</name>
+	<name>freddyInsights</name>
 	<description>Freddy platform to manage all AI apis</description>
 	<properties>
 		<revision>1.1.0</revision>
