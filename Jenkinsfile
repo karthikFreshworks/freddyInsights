@@ -14,19 +14,19 @@ pipeline {
 
         stage('Build') {
             steps {
-                sh './mvnw clean install -DskipTests'
+                sh './mvn clean install -DskipTests'
             }
         }
 
         stage('Test') {
             steps {
-                sh './mvnw test'
+                sh './mvn test'
             }
         }
 
         stage('Code Coverage') {
             steps {
-                sh './mvnw jacoco:report'
+                sh './mvn jacoco:report'
             }
             post {
                 always {
@@ -37,7 +37,7 @@ pipeline {
 
         stage('Package') {
             steps {
-                sh './mvnw package'
+                sh './mvn package'
             }
         }
 
