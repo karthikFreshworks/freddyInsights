@@ -1,5 +1,11 @@
 pipeline {
-    agent any
+    agent {
+          kubernetes {
+              inheritFrom 'eks-analytics-docker-slave'
+              defaultContainer 'eks-analytics-docker-slave'
+              label 'eks-analytics-docker-slave'
+          }
+      }
 
     triggers {
         githubPush() // Trigger builds on push events
@@ -14,30 +20,9 @@ pipeline {
 
         stage('Build') {
             steps {
-                sh './mvn clean install -DskipTests'
-            }
-        }
-
-        stage('Test') {
-            steps {
-                sh './mvn test'
-            }
-        }
-
-        stage('Code Coverage') {
-            steps {
-                sh './mvn jacoco:report'
-            }
-            post {
-                always {
-                    archiveArtifacts artifacts: 'target/site/jacoco/*.html', allowEmptyArchive: true
+                withMaven(maven: 'sonar-maven') {
+                    sh 'mvn clean install -DskipTests'
                 }
-            }
-        }
-
-        stage('Package') {
-            steps {
-                sh './mvn package'
             }
         }
 
