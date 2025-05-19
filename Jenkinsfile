@@ -1,9 +1,9 @@
 pipeline {
     agent {
-          kubernetes {
-              inheritFrom 'eks-analytics-docker-slave'
-              defaultContainer 'eks-analytics-docker-slave'
-              label 'eks-analytics-docker-slave'
+        kubernetes {
+              inheritFrom 'eks-freshiq-java21'
+              defaultContainer 'eks-freshiq-java21'
+              label 'eks-freshiq-java21'
           }
       }
 
