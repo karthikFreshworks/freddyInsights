@@ -1,11 +1,6 @@
 pipeline {
     agent any
 
-    environment {
-        JAVA_HOME = tool 'JDK21' // Ensure JDK 21 is configured in Jenkins
-        PATH = "${JAVA_HOME}/bin:${env.PATH}"
-    }
-
     triggers {
         githubPush() // Trigger builds on push events
     }
