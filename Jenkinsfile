@@ -20,9 +20,7 @@ pipeline {
 
         stage('Build') {
             steps {
-                withMaven(maven: 'sonar-maven') {
-                    sh 'mvn clean install -DskipTests'
-                }
+                sh 'mvn clean install -DskipTests'
             }
         }
 
